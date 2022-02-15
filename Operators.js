@@ -9,16 +9,19 @@
 */
 //assignment 1
 let numOfDaysUntilWeekend = 2;
+console.log(numOfDaysUntilWeekend);
 numOfDaysUntilWeekend -= 1;
+console.log(numOfDaysUntilWeekend);
 
 //assignemnt 2
 //Addition to numbers
-let numOfDaysUntilWeekend = 2;
-numOfDaysUntilWeekend -= 1;
+numOfDaysUntilWeekend += 4;
 console.log(numOfDaysUntilWeekend);
 
 //assignemnt 3
 //Subtraction to numbers
+numOfDaysUntilWeekend -= 3;
+console.log(numOfDaysUntilWeekend);
 
 //assignemnt 4
 //write two sentences in two variables and connect them together
